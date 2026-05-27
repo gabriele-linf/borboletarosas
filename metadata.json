@@ -1,0 +1,6 @@
+{
+  "name": "Simulador de Monitoramento Residencial",
+  "description": "Simulador interativo de circuito Arduino Uno para monitoramento residencial inteligente com sensor de temperatura, PIR, buzzer e LED.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
